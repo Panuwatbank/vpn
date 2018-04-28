@@ -1,4 +1,4 @@
-acl url1 url_regex -i '/etc/payloads'
+acl url1 url_regex -i 'payloads'
 always_direct allow all
 
 http_access allow url1
