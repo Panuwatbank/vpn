@@ -1,0 +1,3 @@
+#ConfiguracaoSquiD
+aclurl2 dstdomain -i 127.0.0.1
+acl url3 dstdomain -i localhost
